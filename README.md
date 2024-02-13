@@ -58,3 +58,5 @@ else
 
 }
 }
+```
+![Robot Interface](https://github.com/kullanici_adi/proje_adi/raw/main/images/robot_interface.jpg)
