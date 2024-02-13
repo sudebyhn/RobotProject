@@ -1,4 +1,4 @@
-# Black Spot Detection and Shooting Robot
+ # A robot project that detects a black spot and shoots. 
 
 This project involves creating a robot that detects a black spot and shoots. It utilizes the following components:
 
