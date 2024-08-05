@@ -59,4 +59,4 @@ else
 }
 }
 ```
-![Robot Interface](https://github.com/kullanici_adi/proje_adi/raw/main/images/Robot_Interface.jpg)
+![Robot Interface](images/Robot_Interface.jpg)
