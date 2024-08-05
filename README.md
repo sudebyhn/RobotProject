@@ -60,6 +60,5 @@ else
 }
 ```
 ![Robot Interface]("C:\Users\casper\Desktop\images\Robot_Interface.jpg")
-![Robot Interface](https://github.com/sudebyhn/proje_adi/blob/main/images/Robot_Interface.jpg?raw=true)
 
 
