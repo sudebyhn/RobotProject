@@ -59,5 +59,5 @@ else
 }
 }
 ```
-![Robot Interface](images/Robot_Interface.jpg)
+![Robot Interface]("C:\Users\casper\Desktop\images\Robot_Interface.jpg")
 
